@@ -103,12 +103,15 @@ people ratio, Education rate, School enrollment count, Count of worker class for
 borough to identify any relation between crime and these factors.
 
 Complaint Vs. Arrest
+
 One city may report more crime than a comparable one, not because there is more crime, but 
 rather because its law enforcement agency, through proactive efforts, identifies more offenses.
+
 Attitudes of the citizens toward crime and their crime reporting practices, especially concerning 
 minor offenses, also have an impact on the volume of crimes known to police.
 
 Conclusion
+
 According to FBI, everyone should be cautioned against comparing statistical data of 
 individual reporting units from cities, counties, metropolitan areas, states, or colleges or 
 universities solely on the basis of their population coverage or student enrollment. Until 
